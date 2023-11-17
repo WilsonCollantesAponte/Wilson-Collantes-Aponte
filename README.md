@@ -15,5 +15,5 @@
 <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth.js" width="90">
 <!-- <img src="https://th.bing.com/th/id/OIP._Q4FjQNxbzA8K2drm_KbbQHaE8?rs=1&pid=ImgDetMain" alt="Mercado-Pago" width="125"> -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="100">
-<img src="https://th.bing.com/th/id/OIP.KgOH9GsQiytmGOyNrqLEYwHaDt?w=1200&h=600&rs=1&pid=ImgDetMain" alt="MySQL" width="300">
+<img src="https://hoplasoftware.com/wp-content/uploads/2021/07/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySQL" width="300">
 </div>
