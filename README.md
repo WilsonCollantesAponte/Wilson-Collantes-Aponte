@@ -17,5 +17,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="100">
 <img src="https://hoplasoftware.com/wp-content/uploads/2021/07/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySQL" width="185">
 <!-- <img src="https://th.bing.com/th/id/OIP.Z8yoqoSoOywB-50VxGMTigHaGU?rs=1&pid=ImgDetMain" alt="Microsoft-SQL-Server" width="115"> -->
-<img src="https://th.bing.com/th/id/R.e8c4671b1cca100eed3c9cfed1f28b05?rik=eV1Zl5ARwz4uAA&riu=http%3a%2f%2fwww.enperezzeledon.com%2fwp-content%2fuploads%2f2019%2f10%2f1200px-Kotlin-logo.svg_.png&ehk=mm97WoNAxSngu3tQxnTNp%2fTezvyNOkHVWTt3HVxbGsI%3d&risl=&pid=ImgRaw&r=0" alt="Kotlin" width="90">
+<img src="https://th.bing.com/th/id/R.e8c4671b1cca100eed3c9cfed1f28b05?rik=eV1Zl5ARwz4uAA&riu=http%3a%2f%2fwww.enperezzeledon.com%2fwp-content%2fuploads%2f2019%2f10%2f1200px-Kotlin-logo.svg_.png&ehk=mm97WoNAxSngu3tQxnTNp%2fTezvyNOkHVWTt3HVxbGsI%3d&risl=&pid=ImgRaw&r=0" alt="Kotlin" width="95">
 </div>
