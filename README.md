@@ -16,5 +16,5 @@
 <!-- <img src="https://th.bing.com/th/id/OIP._Q4FjQNxbzA8K2drm_KbbQHaE8?rs=1&pid=ImgDetMain" alt="Mercado-Pago" width="125"> -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="100">
 <img src="https://hoplasoftware.com/wp-content/uploads/2021/07/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySQL" width="185">
-<img src="https://www.pngrepo.com/download/303229/microsoft-sql-server-logo.png" alt="Microsoft-SQL-Server" width="185">
+<img src="https://pepe-log.com/wp-content/uploads/2021/02/microsoft-sql-server-1024x538.png" alt="Microsoft-SQL-Server" width="185">
 </div>
