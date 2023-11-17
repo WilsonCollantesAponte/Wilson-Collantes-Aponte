@@ -10,6 +10,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:1024/0*VLLYS8MznQJXq-1_.jpg" alt="Prisma" width="150">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="Tailwindcss" width="150">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="125">
-<img src="https://www.wpgraphql.com/_next/image?url=%2Flogos%2Flogo-nextjs.png&w=384&q=75" alt="Next.js" width="105">
+<img src="https://www.wpgraphql.com/_next/image?url=%2Flogos%2Flogo-nextjs.png&w=384&q=75" alt="Next.js" width="100">
 <img src="https://d4.alternativeto.net/j2Qe4O0p2F7OmLkdOlu6o3xcNg1_OGI3lOYJ6CXXzFs/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9hc3Ryby13ZWItZnJhbWV3b3JrXzIwOTAyOC5wbmc.png" alt="Astro" width="100">
+<img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth.js" width="100">
 </div>
