@@ -14,5 +14,5 @@
 <img src="https://d4.alternativeto.net/j2Qe4O0p2F7OmLkdOlu6o3xcNg1_OGI3lOYJ6CXXzFs/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9hc3Ryby13ZWItZnJhbWV3b3JrXzIwOTAyOC5wbmc.png" alt="Astro" width="100">
 <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth.js" width="90">
 <!-- <img src="https://th.bing.com/th/id/OIP._Q4FjQNxbzA8K2drm_KbbQHaE8?rs=1&pid=ImgDetMain" alt="Mercado-Pago" width="125"> -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="125">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="100">
 </div>
