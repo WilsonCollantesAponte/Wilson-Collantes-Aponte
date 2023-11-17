@@ -7,5 +7,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="React" width="115">
 <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="Node" width="90">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18v7qjb95jfqfBueH0PMFkla_3cPQQORDPL_pkACa7Z1IpqKY-8fkvEv75YiV5cwwRXE&usqp=CAU" alt="ExpressJS" width="100">
-<img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="Prisma" width="250">
+<img src="[https://cdn.worldvectorlogo.com/logos/prisma-2.svg](https://miro.medium.com/v2/resize:fit:1024/0*VLLYS8MznQJXq-1_.jpg)https://miro.medium.com/v2/resize:fit:1024/0*VLLYS8MznQJXq-1_.jpg" alt="Prisma" width="250">
 </div>
