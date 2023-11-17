@@ -15,5 +15,5 @@
 <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth.js" width="90">
 <!-- <img src="https://th.bing.com/th/id/OIP._Q4FjQNxbzA8K2drm_KbbQHaE8?rs=1&pid=ImgDetMain" alt="Mercado-Pago" width="125"> -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="100">
-<img src="https://th.bing.com/th/id/R.255b77e251b19a6d0600634d2ff9b006?rik=k3edqLFjWyFC1Q&riu=http%3a%2f%2fpngimg.com%2fuploads%2fmysql%2fmysql_PNG22.png&ehk=ffHItQzD%2fUaKL%2bPOiED3dtDd9YUI%2fJRUzYL5raCZnR8%3d&risl=&pid=ImgRaw&r=0" alt="MySQL" width="130">
+<img src="https://th.bing.com/th/id/R.255b77e251b19a6d0600634d2ff9b006?rik=k3edqLFjWyFC1Q&riu=http%3a%2f%2fpngimg.com%2fuploads%2fmysql%2fmysql_PNG22.png&ehk=ffHItQzD%2fUaKL%2bPOiED3dtDd9YUI%2fJRUzYL5raCZnR8%3d&risl=&pid=ImgRaw&r=0" alt="MySQL" width="180">
 </div>
