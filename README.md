@@ -8,5 +8,6 @@
 <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="Node" width="90">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18v7qjb95jfqfBueH0PMFkla_3cPQQORDPL_pkACa7Z1IpqKY-8fkvEv75YiV5cwwRXE&usqp=CAU" alt="ExpressJS" width="100">
 <img src="https://miro.medium.com/v2/resize:fit:1024/0*VLLYS8MznQJXq-1_.jpg" alt="Prisma" width="150">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="Tailwindcss" width="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="Tailwindcss" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="100">
 </div>
