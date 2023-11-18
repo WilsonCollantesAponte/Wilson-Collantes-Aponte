@@ -25,5 +25,5 @@
 <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" alt="Trello" width="115">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual-Studio-Code" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" alt="Android-Studio" width="115">
-<img src="https://ih1.redbubble.net/image.1077188254.2895/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="GitHub" width="100">
+<img src="https://pngimg.com/uploads/github/github_PNG67.png" alt="GitHub" width="100">
 </div>
