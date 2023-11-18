@@ -29,5 +29,5 @@
 <img src="https://devantler.gallerycdn.vsassets.io/extensions/devantler/git-extension-pack-new/1.0.2/1661979762699/Microsoft.VisualStudio.Services.Icons.Default" alt="Git" width="100">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3r02hPzs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2tqlohxn9ji79m706w5j.png" alt="Vercel" width="200">
 <img src="https://railway.app/brand/logotype-light.png" alt="Railway" width="280">
-<img src="https://intellyx.com/wp-content/uploads/2019/08/Render-cloud-intellyx-BC-logo.png" alt="Render" width="100">
+<img src="https://intellyx.com/wp-content/uploads/2019/08/Render-cloud-intellyx-BC-logo.png" alt="Render" width="150">
 </div>
