@@ -26,5 +26,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual-Studio-Code" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" alt="Android-Studio" width="115">
 <img src="https://pngimg.com/uploads/github/github_PNG67.png" alt="GitHub" width="100">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" alt="Git" width="100">
+<img src="https://devantler.gallerycdn.vsassets.io/extensions/devantler/git-extension-pack-new/1.0.2/1661979762699/Microsoft.VisualStudio.Services.Icons.Default" alt="Git" width="100">
 </div>
