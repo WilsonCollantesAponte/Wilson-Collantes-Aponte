@@ -27,5 +27,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" alt="Android-Studio" width="115">
 <img src="https://pngimg.com/uploads/github/github_PNG67.png" alt="GitHub" width="100">
 <img src="https://devantler.gallerycdn.vsassets.io/extensions/devantler/git-extension-pack-new/1.0.2/1661979762699/Microsoft.VisualStudio.Services.Icons.Default" alt="Git" width="100">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3r02hPzs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2tqlohxn9ji79m706w5j.png" alt="Vercel" width="100">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3r02hPzs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2tqlohxn9ji79m706w5j.png" alt="Vercel" width="200">
 </div>
