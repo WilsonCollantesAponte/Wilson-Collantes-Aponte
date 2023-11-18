@@ -24,5 +24,5 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5108/5108574.png" alt="Scrum" width="100">
 <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" alt="Trello" width="115">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual-Studio-Code" width="100">
-<img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" alt="Trello" width="115">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" alt="Android-Studio" width="115">
 </div>
