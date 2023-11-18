@@ -26,6 +26,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual-Studio-Code" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" alt="Android-Studio" width="115">
 <img src="https://pngimg.com/uploads/github/github_PNG67.png" alt="GitHub" width="100">
-<img src="https://pngimg.com/uploads/github/github_PNG67.png" alt="GitHub" width="100">
+<img src="https://th.bing.com/th/id/OIP.WkoepIBSEETjRUGrYDgZewAAAA?pid=ImgDet&w=300&h=265&rs=1" alt="GitHub" width="100">
 <img src="https://th.bing.com/th/id/OIP.9MZPjSJLG4lgkEH4Qzqa2AHaEO?rs=1&pid=ImgDetMain" alt="Git" width="100">
 </div>
